@@ -1,18 +1,20 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: discord
+  icon: "fa-brands fa-discord"
+  url: "https://discord.com/users/1137049135829221456"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: ko-fi
+  icon: "fa-solid fa-mug-hot"
+  url: "https://ko-fi.com/rinkuwu"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
+#
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

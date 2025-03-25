@@ -1,0 +1,14 @@
+---
+title: "[Old Design] Transparent Blue"
+date: 2024-08-16 00:00:00 +0000
+image: /assets/PXL_20240817_014528514.jpg
+---
+
+# Ever so slightly transparent blue!
+
+![PXL_20240817_014548269.jpg](/assets/PXL_20240817_014548269.jpg)
+![PXL_20240817_014554389.jpg](/assets/PXL_20240817_014554389.jpg)
+![PXL_20240817_014557821.jpg](/assets/PXL_20240817_014557821.jpg)
+![PXL_20240817_015048500.jpg](/assets/PXL_20240817_015048500.jpg)
+![PXL_20240817_015054641.jpg](/assets/PXL_20240817_015054641.jpg)
+![PXL_20240817_015338922.jpg](/assets/PXL_20240817_015338922.jpg)

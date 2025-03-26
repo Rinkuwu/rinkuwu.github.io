@@ -6,7 +6,7 @@ image: /assets/PXL_20250306_222111568.jpg
 
 # Printing with clear filament
 
-(An surprisingly hard task)
+(A surprisingly hard task)
 
 ![PXL_20250306_222111568.jpg](/assets/PXL_20250222_014318656.jpg)
 ![PXL_20250306_215344487.jpg](/assets/PXL_20250306_215344487.jpg)

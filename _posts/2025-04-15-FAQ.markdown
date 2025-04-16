@@ -1,0 +1,64 @@
+---
+title: "FAQ & Info"
+description: "Frequently asked questions and information about the trackers."
+date: 2025-04-15 00:00:00 +0000
+image: /assets/PXL_20250131_012313437~1.png
+pin: true
+---
+
+# *FAQ & Info*
+
+---
+
+### What sets are there?
+- We currently have 3 sets of trackers:
+  - 6-point trackers
+    - Chest, Hip, Knees, Ankles
+  - 8-point trackers
+    - Chest, Hip, Knees, Ankles, Feet _or_ Arms
+  - 10-point trackers
+    - Chest, Hip, Knees, Ankles, Feet, Arms
+  - Need a custom amount? Let me know!
+
+### Do the trackers come with straps?
+- Yes! All trackers come with a strap. 8-point trackers come with an option of feet straps or arm straps!
+
+### What comes with the docking station?
+ - The docking station is an 8-port dock.
+ - A braided type-C cable
+ - A power supply (wall brick)
+
+### How long does the battery last?
+- The battery lasts about 8-11 hours depending on utilization.
+
+### Which sensor is used?
+- The trackers use [LSM6DSV IMUs](https://docs.slimevr.dev/diy/imu-comparison.html#lsm6dsv)
+- LSM6DSV's have 45-60 mins of reset time (Until noticeable drift)
+
+### Are designs extra?
+- No! All designs are included with the purchase of a tracker.
+
+### What colors are available?
+
+> Linked colors are examples of the color in use.
+{: .prompt-tip }
+
+> Want a custom color? Let me know! This will add a few days to the order time.
+{: .prompt-info }
+
+<details>
+<a href="https://trackers.rinkuwu.xyz/posts/monster-logo/" target="_blank">Black (Typically used as primary/base color)</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/VRChat-logo/" target="_blank">White</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/new-design/" target="_blank">Transparent Blue</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/scraps&other-pics/" target="_blank">Glow in the Dark Green</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/green+black/" target="_blank">Green</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/first-design/" target="_blank">Light Pink</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/first-sets/" target="_blank">Hot Pink</a> <br>
+Yellow (Matte gold) <br>
+<a href="https://trackers.rinkuwu.xyz/posts/clear-lids/" target="_blank">Clear</a> <br>
+<a href="https://trackers.rinkuwu.xyz/posts/lakers-logo/" target="_blank">Dark Purple</a> <br>
+</details>
+
+### Can I add a 3D Print to my order?
+- Yes! For prints that don't take too much filament, I can add them to your order for no extra. For larger prints, I will charge a small fee to cover filament costs.
+- Want the GoPro chest mount 3d print? Let me know!

@@ -8,6 +8,9 @@ image: /assets/PXL_20250306_222111568.jpg
 
 (A surprisingly hard task)
 
+> Choosing clear filament for your order will add some time as printing clear lids is extremely slow!
+{: .prompt-warning }
+
 ![PXL_20250306_222111568.jpg](/assets/PXL_20250222_014318656.jpg)
 ![PXL_20250306_215344487.jpg](/assets/PXL_20250306_215344487.jpg)
 ![PXL_20250306_215344487~2.jpg](/assets/PXL_20250306_215344487%7E2.jpg)

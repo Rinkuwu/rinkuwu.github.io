@@ -1,0 +1,20 @@
+#!/bin/bash
+# Strip EXIF metadata from staged image files before committing
+
+STAGED_IMAGES=$(git diff --cached --name-only --diff-filter=ACM | grep -iE '\.(jpg|jpeg|png|webp)$')
+
+if [ -z "$STAGED_IMAGES" ]; then
+    exit 0
+fi
+
+if ! command -v exiftool &>/dev/null; then
+    echo "WARNING: exiftool not installed — images may contain EXIF/GPS data!"
+    echo "Install with: sudo pacman -S perl-image-exiftool"
+    exit 1
+fi
+
+echo "Stripping EXIF metadata from staged images..."
+for file in $STAGED_IMAGES; do
+    exiftool -all= -overwrite_original "$file"
+    git add "$file"
+done
